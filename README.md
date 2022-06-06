@@ -1,4 +1,4 @@
-# Swish_shell
+# Swish_Shell
 
 This program creates a command-line shell.
 
